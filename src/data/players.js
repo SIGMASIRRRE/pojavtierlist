@@ -1,6 +1,6 @@
 export const players = {
-  "Stony": {
-    name: "Stony",
+  "Flexz0r": {
+    name: "Flexz0r",
     message: "One of the best NethPot players!",
     tiers: {
       "Netherite Potion": "HT1",
