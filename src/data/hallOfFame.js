@@ -1,8 +1,8 @@
 export const hallOfFame = [
   {
-    name: "Stony",
-    message: "Creator of the best PvP scanner!",
-    image: "Stony"
+    name: "Shin",
+    message: "opbhai",
+    image: "Steve"
   },
   {
     name: "xicz",
